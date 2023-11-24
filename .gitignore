@@ -1,0 +1,21 @@
+.env
+.pkl
+# Ignore virtual environments
+venv/
+env/
+myenv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore environment variables file
+.env
+
+# Ignore logs
+logs/
